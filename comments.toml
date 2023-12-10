@@ -5,6 +5,13 @@ func_addr = 0x11b5
 comment = "if head is null\n"
 decompiled = true
 
+[0x11e3]
+last_change = 2023-12-10T07:04:11.202571Z
+addr = 0x11e3
+func_addr = 0x11da
+comment = "if a1 is not the only node in the list\n"
+decompiled = true
+
 [0x120d]
 last_change = 2023-12-10T07:03:09.307881Z
 addr = 0x120d
