@@ -1,5 +1,5 @@
-[0x692]
-last_change = 2023-12-10T08:12:32.516370Z
-addr = 0x692
-name = "aLibcStartMain"
-size = 0x12
+[0x6a4]
+last_change = 2023-12-10T08:12:32.525561Z
+addr = 0x6a4
+name = "aStrtoul"
+size = 0x8
