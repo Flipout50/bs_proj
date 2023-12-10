@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x4128]
-last_change = 2023-12-10T08:13:30.856066Z
-addr = 0x4128
-name = "strtoul"
+[0x3d38]
+last_change = 2023-12-10T08:13:30.865960Z
+addr = 0x3d38
+name = "_DYNAMIC"
 size = 0x1
