@@ -1,5 +1,5 @@
-[0x1ac0]
-last_change = 2023-12-10T08:12:32.606132Z
-addr = 0x1ac0
-name = "_fini"
-size = 0x1
+[0x6b4]
+last_change = 2023-12-10T08:12:32.615093Z
+addr = 0x6b4
+name = "aFclose"
+size = 0x7
