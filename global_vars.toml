@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x3fa8]
-last_change = 2023-12-10T08:13:37.679070Z
-addr = 0x3fa8
-name = "malloc_ptr"
+[0x3f68]
+last_change = 2023-12-10T08:13:37.691314Z
+addr = 0x3f68
+name = "fclose_ptr"
 size = 0x8
 
 [0x4148]
