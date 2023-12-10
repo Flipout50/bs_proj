@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x4040]
-last_change = 2023-12-10T08:13:30.804565Z
-addr = 0x4040
-name = "stderr@GLIBC_2.2.5"
+[0x1190]
+last_change = 2023-12-10T08:13:30.815071Z
+addr = 0x1190
+name = ".__stack_chk_fail"
 size = 0x1
