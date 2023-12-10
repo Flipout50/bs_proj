@@ -1,5 +1,5 @@
-[0x3fd0]
-last_change = 2023-12-10T08:12:32.506881Z
-addr = 0x3fd0
-name = "rand_ptr"
-size = 0x8
+[0x692]
+last_change = 2023-12-10T08:12:32.516370Z
+addr = 0x692
+name = "aLibcStartMain"
+size = 0x12
