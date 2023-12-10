@@ -4,12 +4,6 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x3f70]
-last_change = 2023-12-10T08:13:37.829301Z
-addr = 0x3f70
-name = "__stack_chk_fail_ptr"
-size = 0x8
-
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
