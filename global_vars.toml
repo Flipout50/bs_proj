@@ -1,14 +1,14 @@
-[0x685]
-last_change = 2023-12-10T08:13:36.915721Z
-addr = 0x685
-name = "aAlarm"
-size = 0x6
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
+
+[0x3f58]
+last_change = 2023-12-10T08:13:36.927473Z
+addr = 0x3f58
+name = "putchar_ptr"
+size = 0x8
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
