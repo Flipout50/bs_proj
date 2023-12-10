@@ -1,5 +1,5 @@
-[0x68b]
-last_change = 2023-12-10T08:12:32.561863Z
-addr = 0x68b
-name = "aMalloc"
-size = 0x7
+[0x2974]
+last_change = 2023-12-10T08:12:32.570833Z
+addr = 0x2974
+name = "__FRAME_END__"
+size = 0x1
