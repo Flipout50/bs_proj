@@ -1,5 +1,5 @@
-[0x40e8]
-last_change = 2023-12-10T08:12:32.534824Z
-addr = 0x40e8
-name = "printf"
-size = 0x1
+[0x3fb0]
+last_change = 2023-12-10T08:12:32.543936Z
+addr = 0x3fb0
+name = "setvbuf_ptr"
+size = 0x8
