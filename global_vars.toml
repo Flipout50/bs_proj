@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x11b0]
-last_change = 2023-12-10T08:13:30.773806Z
-addr = 0x11b0
-name = ".alarm"
+[0x2000]
+last_change = 2023-12-10T08:13:30.783883Z
+addr = 0x2000
+name = "_IO_stdin_used"
 size = 0x1
