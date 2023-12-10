@@ -4,11 +4,11 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x260c]
-last_change = 2023-12-10T08:13:37.295647Z
-addr = 0x260c
-name = "aEnterCoordinat"
-size = 0x15
+[0x25d1]
+last_change = 2023-12-10T08:13:37.307359Z
+addr = 0x25d1
+name = "aSlotDEmpty"
+size = 0x12
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
