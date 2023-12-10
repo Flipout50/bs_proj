@@ -4,10 +4,3 @@ addr = 0x11b8
 func_addr = 0x11b5
 comment = "if head is null\n"
 decompiled = true
-
-[0x1289]
-last_change = 2023-12-10T06:57:50.780625Z
-addr = 0x1289
-func_addr = 0x123e
-comment = "read 1 random byte to buf until <= 0xae\n"
-decompiled = true
