@@ -1,14 +1,14 @@
-[0x6ac]
-last_change = 2023-12-10T08:13:36.868632Z
-addr = 0x6ac
-name = "aFprintf"
-size = 0x8
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
+
+[0x3f98]
+last_change = 2023-12-10T08:13:36.880416Z
+addr = 0x3f98
+name = "fprintf_ptr"
+size = 0x8
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
