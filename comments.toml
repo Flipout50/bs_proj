@@ -26,9 +26,9 @@ func_addr = 0x123e
 comment = "read 1 random byte to buf until <= 0xae\n"
 decompiled = true
 
-[0x12a1]
-last_change = 2023-12-10T07:11:04.725400Z
-addr = 0x12a1
+[0x12c2]
+last_change = 2023-12-10T07:11:04.734797Z
+addr = 0x12c2
 func_addr = 0x123e
-comment = "if buf not found in linked list\n"
+comment = "quit after 175 bytes mapped into linked list\n"
 decompiled = true
