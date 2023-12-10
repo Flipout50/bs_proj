@@ -4,3 +4,10 @@ addr = 0x11b8
 func_addr = 0x11b5
 comment = "if head is null\n"
 decompiled = true
+
+[0x12a1]
+last_change = 2023-12-10T06:57:23.866675Z
+addr = 0x12a1
+func_addr = 0x123e
+comment = "if buf not found in v6\n"
+decompiled = true
