@@ -1,0 +1,10 @@
+[metadata]
+name = "Elf64_Sym"
+size = 0x8
+last_change = 2023-12-10T08:12:32.169516Z
+
+[members.0x0]
+name = "st_name"
+offset = 0x0
+type = ""
+size = 0x4
