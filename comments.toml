@@ -32,10 +32,3 @@ addr = 0x12c2
 func_addr = 0x123e
 comment = "quit after 175 bytes mapped into linked list\n"
 decompiled = true
-
-[0x136b]
-last_change = 2023-12-10T07:11:10.039726Z
-addr = 0x136b
-func_addr = 0x130b
-comment = "null 175th byte of file_mem\n"
-decompiled = true
