@@ -4,11 +4,11 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x2026]
-last_change = 2023-12-10T08:13:37.655330Z
-addr = 0x2026
-name = "aDDh"
-size = 0x9
+[0x3fe8]
+last_change = 2023-12-10T08:13:37.666940Z
+addr = 0x3fe8
+name = "__gmon_start___ptr"
+size = 0x8
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
