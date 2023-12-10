@@ -3,3 +3,9 @@ last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
+
+[0x4010]
+last_change = 2023-12-10T08:13:31.012120Z
+addr = 0x4010
+name = "_edata"
+size = 0x1
