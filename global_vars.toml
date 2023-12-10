@@ -4,11 +4,11 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x3f58]
-last_change = 2023-12-10T08:13:36.927473Z
-addr = 0x3f58
-name = "putchar_ptr"
-size = 0x8
+[0x1ac0]
+last_change = 2023-12-10T08:13:36.939268Z
+addr = 0x1ac0
+name = ".term_proc"
+size = 0x1
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
