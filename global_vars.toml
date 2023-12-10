@@ -1,14 +1,14 @@
+[0x344]
+last_change = 2023-12-10T08:13:37.704400Z
+addr = 0x344
+name = "aGnu"
+size = 0x4
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x3f68]
-last_change = 2023-12-10T08:13:37.691314Z
-addr = 0x3f68
-name = "fclose_ptr"
-size = 0x8
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
