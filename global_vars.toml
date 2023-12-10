@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x40e0]
-last_change = 2023-12-10T08:13:30.845730Z
-addr = 0x40e0
-name = "__stack_chk_fail"
+[0x4128]
+last_change = 2023-12-10T08:13:30.856066Z
+addr = 0x4128
+name = "strtoul"
 size = 0x1
