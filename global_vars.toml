@@ -4,11 +4,11 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x2628]
-last_change = 2023-12-10T08:13:37.367434Z
-addr = 0x2628
-name = "a1Crea"
-size = 0xf9
+[0x3fe0]
+last_change = 2023-12-10T08:13:37.379694Z
+addr = 0x3fe0
+name = "_ITM_deregisterTMCloneTable_ptr"
+size = 0x8
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
