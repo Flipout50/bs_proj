@@ -1,3 +1,9 @@
+[0x828]
+last_change = 2023-12-10T08:13:37.127260Z
+addr = 0x828
+comment = "R_X86_64_RELATIVE +1340h\n"
+decompiled = false
+
 [0x11b8]
 last_change = 2023-12-10T06:55:32.834339Z
 addr = 0x11b8
