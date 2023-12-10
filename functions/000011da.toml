@@ -1,4 +1,28 @@
 [metadata]
 addr = 0x11da
 size = 0x64
-last_change = 2023-12-10T06:57:56.601095Z
+last_change = 2023-12-10T06:57:56.611464Z
+
+[header]
+last_change = 2023-12-10T06:57:56.611464Z
+name = "append_list"
+addr = 0x11da
+type = "_BYTE *"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "node *"
+size = 0x8
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char"
+size = 0x1
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "char"
+size = 0x1
