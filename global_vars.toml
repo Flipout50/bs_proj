@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x18a5]
-last_change = 2023-12-10T08:13:31.054187Z
-addr = 0x18a5
-name = "attack"
+[0x1000]
+last_change = 2023-12-10T08:13:31.064293Z
+addr = 0x1000
+name = "_init"
 size = 0x1
