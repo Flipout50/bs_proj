@@ -1,9 +1,3 @@
-[0x3b4]
-last_change = 2023-12-10T08:13:37.525413Z
-addr = 0x3b4
-name = "elf_gnu_hash_symbias"
-size = 0x4
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
