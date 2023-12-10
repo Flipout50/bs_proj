@@ -1,5 +1,5 @@
-[0x4138]
-last_change = 2023-12-10T08:12:32.341571Z
-addr = 0x4138
-name = "exit"
+[0x1290]
+last_change = 2023-12-10T08:12:32.351638Z
+addr = 0x1290
+name = "deregister_tm_clones"
 size = 0x1
