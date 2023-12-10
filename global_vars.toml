@@ -1,5 +1,11 @@
-[0x4008]
-last_change = 2023-12-10T08:12:32.623706Z
-addr = 0x4008
-name = "__dso_handle"
+[0x6b4]
+last_change = 2023-12-10T08:12:32.615093Z
+addr = 0x6b4
+name = "aFclose"
+size = 0x7
+
+[0x40f8]
+last_change = 2023-12-10T08:12:32.636734Z
+addr = 0x40f8
+name = "read"
 size = 0x1
