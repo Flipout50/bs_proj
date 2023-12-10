@@ -1,13 +1,13 @@
 [metadata]
 addr = 0x11da
 size = 0x64
-last_change = 2023-12-10T07:04:11.202571Z
+last_change = 2023-12-10T07:04:26.103926Z
 
 [header]
-last_change = 2023-12-10T07:02:49.212649Z
+last_change = 2023-12-10T07:04:26.103926Z
 name = "append_list"
 addr = 0x11da
-type = "_BYTE *"
+type = "node *"
 
 [header.args.0]
 offset = 0x0
