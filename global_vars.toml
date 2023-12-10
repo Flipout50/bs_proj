@@ -1,5 +1,5 @@
-[0x3f38]
-last_change = 2023-12-10T08:12:32.274717Z
-addr = 0x3f38
-name = "_GLOBAL_OFFSET_TABLE_"
-size = 0x1
+[0x2588]
+last_change = 2023-12-10T08:12:32.283905Z
+addr = 0x2588
+name = "aThereIsNoZombi"
+size = 0x22
