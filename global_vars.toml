@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x4150]
-last_change = 2023-12-10T08:13:30.979072Z
-addr = 0x4150
-name = "_ITM_deregisterTMCloneTable"
+[0x4020]
+last_change = 2023-12-10T08:13:30.989448Z
+addr = 0x4020
+name = "stdout@GLIBC_2.2.5"
 size = 0x1
