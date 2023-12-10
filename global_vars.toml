@@ -1,11 +1,11 @@
+[0x38c]
+last_change = 2023-12-10T08:13:30.908305Z
+addr = 0x38c
+name = "__abi_tag"
+size = 0x1
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x40b8]
-last_change = 2023-12-10T08:13:30.897718Z
-addr = 0x40b8
-name = "free"
-size = 0x1
