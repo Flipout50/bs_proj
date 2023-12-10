@@ -1,5 +1,5 @@
-[0x4130]
-last_change = 2023-12-10T08:12:32.256551Z
-addr = 0x4130
-name = "__isoc99_scanf"
-size = 0x1
+[0x709]
+last_change = 2023-12-10T08:12:32.265639Z
+addr = 0x709
+name = "aStackChkFail"
+size = 0x11
