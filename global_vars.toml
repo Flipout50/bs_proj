@@ -4,12 +4,6 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1200]
-last_change = 2023-12-10T08:13:37.007244Z
-addr = 0x1200
-name = ".malloc"
-size = 0x1
-
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
