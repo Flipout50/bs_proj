@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x40d0]
-last_change = 2023-12-10T08:13:30.641853Z
-addr = 0x40d0
-name = "puts"
+[0x1210]
+last_change = 2023-12-10T08:13:30.651259Z
+addr = 0x1210
+name = ".setvbuf"
 size = 0x1
