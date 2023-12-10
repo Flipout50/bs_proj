@@ -1,6 +1,0 @@
-[0x11c0]
-last_change = 2023-12-10T06:55:32.815157Z
-addr = 0x11c0
-func_addr = 0x11b5
-comment = "goto next node\n"
-decompiled = true
