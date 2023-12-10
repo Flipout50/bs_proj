@@ -1,5 +1,5 @@
-[0x25f2]
-last_change = 2023-12-10T08:12:32.247103Z
-addr = 0x25f2
-name = "aNumberOfAttack"
-size = 0x15
+[0x4130]
+last_change = 2023-12-10T08:12:32.256551Z
+addr = 0x4130
+name = "__isoc99_scanf"
+size = 0x1
