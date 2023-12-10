@@ -1,14 +1,14 @@
-[0x3c0]
-last_change = 2023-12-10T08:13:37.319236Z
-addr = 0x3c0
-name = "elf_gnu_hash_indexes"
-size = 0x8
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
+
+[0x24c2]
+last_change = 2023-12-10T08:13:37.331669Z
+addr = 0x24c2
+name = "aZombienatorSTi"
+size = 0x16
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
