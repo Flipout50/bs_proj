@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x40c8]
-last_change = 2023-12-10T08:13:30.609071Z
-addr = 0x40c8
-name = "__libc_start_main"
-size = 0x1
+[0x3f50]
+last_change = 2023-12-10T08:12:32.656839Z
+addr = 0x3f50
+name = "free_ptr"
+size = 0x8
