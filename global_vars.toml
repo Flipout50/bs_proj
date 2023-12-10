@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1190]
-last_change = 2023-12-10T08:13:30.815071Z
-addr = 0x1190
-name = ".__stack_chk_fail"
+[0x1340]
+last_change = 2023-12-10T08:13:30.825788Z
+addr = 0x1340
+name = "frame_dummy"
 size = 0x1
