@@ -1,5 +1,5 @@
-[0x748]
-last_change = 2023-12-10T08:12:32.150469Z
-addr = 0x748
-name = "aGlibc225"
-size = 0xc
+[0x1260]
+last_change = 2023-12-10T08:12:32.159663Z
+addr = 0x1260
+name = "_start"
+size = 0x1
