@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x4010]
-last_change = 2023-12-10T08:13:31.012120Z
-addr = 0x4010
-name = "_edata"
+[0x4000]
+last_change = 2023-12-10T08:13:31.023084Z
+addr = 0x4000
+name = "__data_start"
 size = 0x1
