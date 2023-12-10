@@ -1,5 +1,5 @@
-[0x3d20]
-last_change = 2023-12-10T08:12:32.498183Z
-addr = 0x3d20
-name = "__frame_dummy_init_array_entry"
-size = 0x1
+[0x3fd0]
+last_change = 2023-12-10T08:12:32.506881Z
+addr = 0x3fd0
+name = "rand_ptr"
+size = 0x8
