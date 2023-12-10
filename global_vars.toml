@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x3fd8]
-last_change = 2023-12-10T08:13:36.833909Z
-addr = 0x3fd8
-name = "__libc_start_main_ptr"
+[0x3fc8]
+last_change = 2023-12-10T08:13:36.845328Z
+addr = 0x3fc8
+name = "exit_ptr"
 size = 0x8
 
 [0x4148]
