@@ -32,3 +32,10 @@ addr = 0x12c2
 func_addr = 0x123e
 comment = "quit after 175 bytes mapped into linked list\n"
 decompiled = true
+
+[0x1355]
+last_change = 2023-12-10T07:11:10.058324Z
+addr = 0x1355
+func_addr = 0x130b
+comment = "map 0x1000 bytes with rw\n"
+decompiled = true
