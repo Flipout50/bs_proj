@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x148f
 size = 0x122
-last_change = 2023-12-10T08:13:37.768301Z
+last_change = 2023-12-10T08:13:37.781445Z
+
+[stack_vars.-0x48]
+last_change = 2023-12-10T08:13:37.781445Z
+offset = -72
+name = "s"
+type = "char *[7]"
+size = 0x38
+addr = 0x148f
