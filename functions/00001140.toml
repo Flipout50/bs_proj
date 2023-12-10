@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x1140
 size = 0xb
-last_change = 2023-12-10T08:13:37.269617Z
+last_change = 2023-12-10T08:13:37.282865Z
+
+[header]
+last_change = 2023-12-10T08:13:37.282865Z
+name = "__cxa_finalize"
+addr = 0x1140
