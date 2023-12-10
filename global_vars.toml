@@ -4,11 +4,11 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x2008]
-last_change = 2023-12-10T08:13:37.865138Z
-addr = 0x2008
-name = "s"
-size = 0x8
+[0x252f]
+last_change = 2023-12-10T08:13:37.877170Z
+addr = 0x252f
+name = "aInvalidPositio"
+size = 0x16
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
