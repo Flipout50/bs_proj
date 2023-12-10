@@ -1,5 +1,5 @@
-[0x733]
-last_change = 2023-12-10T08:12:32.321712Z
-addr = 0x733
-name = "aGlibc24"
-size = 0xa
+[0x1996]
+last_change = 2023-12-10T08:12:32.331963Z
+addr = 0x1996
+name = "main"
+size = 0x1
