@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1220]
-last_change = 2023-12-10T08:13:02.657791Z
-addr = 0x1220
-name = ".strtoul"
+[0x1230]
+last_change = 2023-12-10T08:13:30.597076Z
+addr = 0x1230
+name = ".__isoc99_scanf"
 size = 0x1
