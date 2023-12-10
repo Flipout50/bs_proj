@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x3ff0]
-last_change = 2023-12-10T08:13:37.817131Z
-addr = 0x3ff0
-name = "_ITM_registerTMCloneTable_ptr"
+[0x3f70]
+last_change = 2023-12-10T08:13:37.829301Z
+addr = 0x3f70
+name = "__stack_chk_fail_ptr"
 size = 0x8
 
 [0x4148]
