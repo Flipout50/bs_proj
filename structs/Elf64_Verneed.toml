@@ -1,7 +1,7 @@
 [metadata]
 name = "Elf64_Verneed"
-size = 0x8
-last_change = 2023-12-10T08:13:30.753037Z
+size = 0x10
+last_change = 2023-12-10T08:13:37.716684Z
 
 [members.0x0]
 name = "vn_version"
@@ -18,5 +18,17 @@ size = 0x2
 [members.0x4]
 name = "vn_file"
 offset = 0x4
-type = ""
+type = "unsigned int"
+size = 0x4
+
+[members.0x8]
+name = "vn_aux"
+offset = 0x8
+type = "unsigned int"
+size = 0x4
+
+[members.0xc]
+name = "vn_next"
+offset = 0xc
+type = "unsigned int"
 size = 0x4
