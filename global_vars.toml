@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x11e0]
-last_change = 2023-12-10T08:13:30.682309Z
-addr = 0x11e0
-name = ".fprintf"
+[0x11f0]
+last_change = 2023-12-10T08:13:30.692469Z
+addr = 0x11f0
+name = ".time"
 size = 0x1
