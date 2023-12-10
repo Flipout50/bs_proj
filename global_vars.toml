@@ -1,5 +1,5 @@
-[0x709]
-last_change = 2023-12-10T08:12:32.265639Z
-addr = 0x709
-name = "aStackChkFail"
-size = 0x11
+[0x3f38]
+last_change = 2023-12-10T08:12:32.274717Z
+addr = 0x3f38
+name = "_GLOBAL_OFFSET_TABLE_"
+size = 0x1
