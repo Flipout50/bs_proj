@@ -3,3 +3,9 @@ last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
+
+[0x11e0]
+last_change = 2023-12-10T08:13:30.682309Z
+addr = 0x11e0
+name = ".fprintf"
+size = 0x1
