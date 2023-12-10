@@ -4,12 +4,6 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x75d]
-last_change = 2023-12-10T08:13:37.220570Z
-addr = 0x75d
-name = "aItmDeregistert"
-size = 0x1c
-
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
