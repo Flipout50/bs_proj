@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x4010]
-last_change = 2023-12-10T08:13:30.969595Z
-addr = 0x4010
-name = "__TMC_END__"
+[0x4150]
+last_change = 2023-12-10T08:13:30.979072Z
+addr = 0x4150
+name = "_ITM_deregisterTMCloneTable"
 size = 0x1
