@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1250]
-last_change = 2023-12-10T08:13:30.712205Z
-addr = 0x1250
-name = ".rand"
+[0x40c0]
+last_change = 2023-12-10T08:13:30.722555Z
+addr = 0x40c0
+name = "putchar"
 size = 0x1
