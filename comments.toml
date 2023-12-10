@@ -25,10 +25,3 @@ addr = 0x1289
 func_addr = 0x123e
 comment = "read 1 random byte to buf until <= 0xae\n"
 decompiled = true
-
-[0x12a1]
-last_change = 2023-12-10T07:10:52.016290Z
-addr = 0x12a1
-func_addr = 0x123e
-comment = "if buf not found in linked list\n"
-decompiled = true
