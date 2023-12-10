@@ -3,9 +3,3 @@ last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x1412]
-last_change = 2023-12-10T08:13:30.948761Z
-addr = 0x1412
-name = "read_num"
-size = 0x1
