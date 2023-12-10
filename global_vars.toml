@@ -1,5 +1,5 @@
-[0x4100]
-last_change = 2023-12-10T08:12:32.479470Z
-addr = 0x4100
-name = "srand"
+[0x4118]
+last_change = 2023-12-10T08:12:32.488877Z
+addr = 0x4118
+name = "malloc"
 size = 0x1
