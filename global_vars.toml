@@ -4,11 +4,11 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x25e3]
-last_change = 2023-12-10T08:13:37.631526Z
-addr = 0x25e3
-name = "aSlotDS"
-size = 0xf
+[0x24d8]
+last_change = 2023-12-10T08:13:37.643780Z
+addr = 0x24d8
+name = "aCannotCreateZo"
+size = 0x2d
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
