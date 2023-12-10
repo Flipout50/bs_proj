@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x1412
 size = 0x7d
-last_change = 2023-12-10T08:13:37.232673Z
+last_change = 2023-12-10T08:13:37.244754Z
+
+[stack_vars.-0x38]
+last_change = 2023-12-10T08:13:37.244754Z
+offset = -56
+name = "buf"
+type = "long[6]"
+size = 0x30
+addr = 0x1412
