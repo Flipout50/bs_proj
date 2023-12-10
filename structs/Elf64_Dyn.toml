@@ -1,6 +1,10 @@
 [metadata]
 name = "Elf64_Dyn"
-size = 0x0
-last_change = 2023-12-10T08:13:37.066851Z
+size = 0x8
+last_change = 2023-12-10T08:13:37.501173Z
 
-[members]
+[members.0x0]
+name = "d_tag"
+offset = 0x0
+type = ""
+size = 0x8
