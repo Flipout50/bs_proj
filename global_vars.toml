@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1230]
-last_change = 2023-12-10T08:13:30.597076Z
-addr = 0x1230
-name = ".__isoc99_scanf"
+[0x40c8]
+last_change = 2023-12-10T08:13:30.609071Z
+addr = 0x40c8
+name = "__libc_start_main"
 size = 0x1
