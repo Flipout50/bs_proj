@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x3f98]
-last_change = 2023-12-10T08:13:36.880416Z
-addr = 0x3f98
-name = "fprintf_ptr"
+[0x3f88]
+last_change = 2023-12-10T08:13:36.892084Z
+addr = 0x3f88
+name = "read_ptr"
 size = 0x8
 
 [0x4148]
