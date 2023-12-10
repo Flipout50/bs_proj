@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x3fa0]
-last_change = 2023-12-10T08:13:37.404307Z
-addr = 0x3fa0
-name = "time_ptr"
+[0x3f80]
+last_change = 2023-12-10T08:13:37.416504Z
+addr = 0x3f80
+name = "alarm_ptr"
 size = 0x8
 
 [0x4148]
