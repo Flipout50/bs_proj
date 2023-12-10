@@ -1,8 +1,8 @@
-[0x3c8]
-last_change = 2023-12-10T08:13:37.079071Z
-addr = 0x3c8
-name = "elf_gnu_hash_bucket"
-size = 0x1
+[0x671]
+last_change = 2023-12-10T08:13:37.090387Z
+addr = 0x671
+name = "aCxaFinalize"
+size = 0xf
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
