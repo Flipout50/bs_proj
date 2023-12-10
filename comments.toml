@@ -40,9 +40,9 @@ func_addr = 0x130b
 comment = "map 0x1000 bytes with rw\n"
 decompiled = true
 
-[0x136b]
-last_change = 2023-12-10T07:11:34.272230Z
-addr = 0x136b
+[0x139c]
+last_change = 2023-12-10T07:11:34.282704Z
+addr = 0x139c
 func_addr = 0x130b
-comment = "null 175th byte of file_mem\n"
+comment = "null a bunch of bytes\n"
 decompiled = true
