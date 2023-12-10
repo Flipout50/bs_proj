@@ -1,12 +1,12 @@
 [metadata]
 name = "node"
 size = 0xa
-last_change = 2023-12-10T07:05:45.286462Z
+last_change = 2023-12-10T07:06:39.315100Z
 
 [members.0x0]
 name = "next"
 offset = 0x0
-type = ""
+type = "node *"
 size = 0x8
 
 [members.0x8]
