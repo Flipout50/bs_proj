@@ -1,7 +1,7 @@
 [metadata]
 name = "node"
 size = 0xa
-last_change = 2023-12-10T07:06:39.315100Z
+last_change = 2023-12-10T07:09:53.479525Z
 
 [members.0x0]
 name = "next"
@@ -16,7 +16,7 @@ type = ""
 size = 0x1
 
 [members.0x9]
-name = "mem_index"
+name = "file_value"
 offset = 0x9
 type = ""
 size = 0x1
