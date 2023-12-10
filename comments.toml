@@ -19,6 +19,13 @@ func_addr = 0x11da
 comment = "set new_node's key\n"
 decompiled = true
 
+[0x1214]
+last_change = 2023-12-10T07:10:23.952562Z
+addr = 0x1214
+func_addr = 0x11da
+comment = "set character from file\n"
+decompiled = true
+
 [0x1289]
 last_change = 2023-12-10T07:08:41.849301Z
 addr = 0x1289
