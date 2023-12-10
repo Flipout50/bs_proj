@@ -1,5 +1,5 @@
-[0x6ef]
-last_change = 2023-12-10T08:12:32.470540Z
-addr = 0x6ef
-name = "aStderr"
-size = 0x7
+[0x4100]
+last_change = 2023-12-10T08:12:32.479470Z
+addr = 0x4100
+name = "srand"
+size = 0x1
