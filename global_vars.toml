@@ -4,11 +4,11 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x25b0]
-last_change = 2023-12-10T08:13:36.695818Z
-addr = 0x25b0
-name = "aSZombienatorDe"
-size = 0x21
+[0x2567]
+last_change = 2023-12-10T08:13:36.707461Z
+addr = 0x2567
+name = "aZombienatorSPo"
+size = 0x1a
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
