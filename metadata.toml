@@ -1,5 +1,5 @@
 user = "flipout"
 version = 0x0
-last_push_time = 2023-12-10T07:09:53.479525Z
-last_push_artifact = "node"
-last_push_artifact_type = "struct"
+last_push_time = 2023-12-10T07:10:08.038833Z
+last_push_artifact = 0x11da
+last_push_artifact_type = "function"

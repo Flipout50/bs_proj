@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x11da
 size = 0x64
-last_change = 2023-12-10T07:07:18.614702Z
+last_change = 2023-12-10T07:10:08.038833Z
 
 [header]
-last_change = 2023-12-10T07:04:26.103926Z
+last_change = 2023-12-10T07:10:08.038833Z
 name = "append_list"
 addr = 0x11da
 type = "node *"
@@ -23,6 +23,6 @@ size = 0x1
 
 [header.args.2]
 offset = 0x2
-name = "a3"
+name = "file_value"
 type = "char"
 size = 0x1
