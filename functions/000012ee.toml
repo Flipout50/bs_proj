@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x12ee
 size = 0x1d
-last_change = 2023-12-10T07:14:40.304212Z
+last_change = 2023-12-10T07:14:45.945279Z
 
 [header]
-last_change = 2023-12-10T07:14:40.304212Z
+last_change = 2023-12-10T07:14:45.945279Z
 name = "shuf"
 addr = 0x12ee
 type = "long"
@@ -17,6 +17,6 @@ size = 0x8
 
 [header.args.1]
 offset = 0x1
-name = "a2"
+name = "dest"
 type = "long"
 size = 0x8
