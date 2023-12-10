@@ -1,0 +1,22 @@
+[metadata]
+name = "node"
+size = 0xa
+last_change = 2023-12-10T07:05:37.803731Z
+
+[members.0x0]
+name = "next"
+offset = 0x0
+type = ""
+size = 0x8
+
+[members.0x8]
+name = "key"
+offset = 0x8
+type = ""
+size = 0x1
+
+[members.0x9]
+name = "field_9"
+offset = 0x9
+type = ""
+size = 0x1
