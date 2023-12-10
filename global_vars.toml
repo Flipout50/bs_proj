@@ -4,6 +4,12 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
+[0x260c]
+last_change = 2023-12-10T08:13:37.295647Z
+addr = 0x260c
+name = "aEnterCoordinat"
+size = 0x15
+
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
