@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x15b1
 size = 0x13f
-last_change = 2023-12-10T08:12:32.120153Z
+last_change = 2023-12-10T08:12:32.139372Z
+
+[stack_vars.-0x20]
+last_change = 2023-12-10T08:12:32.139372Z
+offset = -32
+name = "size"
+type = "unsigned long"
+size = 0x8
+addr = 0x15b1
