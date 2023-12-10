@@ -1,14 +1,14 @@
+[0x3b4]
+last_change = 2023-12-10T08:13:37.525413Z
+addr = 0x3b4
+name = "elf_gnu_hash_symbias"
+size = 0x4
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x6fe]
-last_change = 2023-12-10T08:13:37.513556Z
-addr = 0x6fe
-name = "aExit"
-size = 0x5
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
