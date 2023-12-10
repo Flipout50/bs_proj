@@ -4,8 +4,8 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x12c0]
-last_change = 2023-12-10T08:12:32.646484Z
-addr = 0x12c0
-name = "register_tm_clones"
+[0x1220]
+last_change = 2023-12-10T08:13:02.657791Z
+addr = 0x1220
+name = ".strtoul"
 size = 0x1
