@@ -1,5 +1,5 @@
-[0x2974]
-last_change = 2023-12-10T08:12:32.570833Z
-addr = 0x2974
-name = "__FRAME_END__"
-size = 0x1
+[0x3f90]
+last_change = 2023-12-10T08:12:32.579716Z
+addr = 0x3f90
+name = "srand_ptr"
+size = 0x8
