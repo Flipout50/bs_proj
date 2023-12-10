@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x11da
 size = 0x64
-last_change = 2023-12-10T06:57:56.611464Z
+last_change = 2023-12-10T07:02:49.212649Z
 
 [header]
-last_change = 2023-12-10T06:57:56.611464Z
+last_change = 2023-12-10T07:02:49.212649Z
 name = "append_list"
 addr = 0x11da
 type = "_BYTE *"
@@ -17,7 +17,7 @@ size = 0x8
 
 [header.args.1]
 offset = 0x1
-name = "a2"
+name = "key"
 type = "char"
 size = 0x1
 
