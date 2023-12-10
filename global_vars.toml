@@ -1,5 +1,5 @@
-[0x4000]
-last_change = 2023-12-10T08:12:32.293305Z
-addr = 0x4000
-name = "data_start"
+[0x1170]
+last_change = 2023-12-10T08:12:32.302533Z
+addr = 0x1170
+name = ".puts"
 size = 0x1
