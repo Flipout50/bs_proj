@@ -1,14 +1,14 @@
+[0x65c]
+last_change = 2023-12-11T18:40:42.024633Z
+addr = 0x65c
+name = "aGlibc27"
+size = 0xa
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x1260]
-last_change = 2023-12-11T18:40:42.007676Z
-addr = 0x1260
-name = "__do_global_dtors_aux"
-size = 0x1
 
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
