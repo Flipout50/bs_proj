@@ -1,3 +1,9 @@
+[0x5bb]
+last_change = 2023-12-11T18:27:36.738718Z
+addr = 0x5bb
+name = "aExit"
+size = 0x5
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -14,10 +20,4 @@ size = 0x1f
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
-size = 0x1
-
-[0x5078]
-last_change = 2023-12-11T18:27:36.724291Z
-addr = 0x5078
-name = "__errno_location"
 size = 0x1
