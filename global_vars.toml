@@ -10,6 +10,12 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
+[0x2820]
+last_change = 2023-12-11T18:27:36.966913Z
+addr = 0x2820
+name = "__libc_csu_fini"
+size = 0x1
+
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
