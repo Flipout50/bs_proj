@@ -10,14 +10,14 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
+[0x3728]
+last_change = 2023-12-11T18:27:36.017150Z
+addr = 0x3728
+name = "__GNU_EH_FRAME_HDR"
+size = 0x1
+
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
-
-[0x4f68]
-last_change = 2023-12-11T18:27:36.001689Z
-addr = 0x4f68
-name = ""
-size = 0x8
