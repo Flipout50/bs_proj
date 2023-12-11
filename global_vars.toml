@@ -1,9 +1,3 @@
-[0x62a]
-last_change = 2023-12-11T18:40:38.338848Z
-addr = 0x62a
-name = "aCxaFinalize"
-size = 0xf
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -21,6 +15,12 @@ last_change = 2023-12-11T18:27:38.840572Z
 addr = 0x3008
 name = "s"
 size = 0x53
+
+[0x3082]
+last_change = 2023-12-11T18:40:38.355543Z
+addr = 0x3082
+name = "aGoodbye"
+size = 0x9
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
