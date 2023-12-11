@@ -1,3 +1,9 @@
+[0x641]
+last_change = 2023-12-11T18:40:42.144083Z
+addr = 0x641
+name = "aStrerror"
+size = 0x9
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -15,12 +21,6 @@ last_change = 2023-12-11T18:27:38.840572Z
 addr = 0x3008
 name = "s"
 size = 0x53
-
-[0x3050]
-last_change = 2023-12-11T18:40:42.127406Z
-addr = 0x3050
-name = "aErrorFailedToR"
-size = 0x24
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
