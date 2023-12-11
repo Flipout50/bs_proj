@@ -1,9 +1,3 @@
-[0x639]
-last_change = 2023-12-11T18:40:38.168412Z
-addr = 0x639
-name = "aSetvbuf"
-size = 0x8
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -26,4 +20,10 @@ size = 0x53
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
+size = 0x1
+
+[0x5088]
+last_change = 2023-12-11T18:40:38.187105Z
+addr = 0x5088
+name = "__isoc99_scanf"
 size = 0x1
