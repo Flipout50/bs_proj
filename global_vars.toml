@@ -21,9 +21,3 @@ last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
-
-[0x4d68]
-last_change = 2023-12-11T18:40:38.957896Z
-addr = 0x4d68
-name = "__do_global_dtors_aux_fini_array_entry"
-size = 0x1
