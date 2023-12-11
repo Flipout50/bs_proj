@@ -1,12 +1,4 @@
 [metadata]
 addr = 0x222d
 size = 0x470
-last_change = 2023-12-11T18:27:38.493419Z
-
-[stack_vars.-0x160]
-last_change = 2023-12-11T18:27:38.493419Z
-offset = -352
-name = "buf"
-type = "void *"
-size = 0x8
-addr = 0x222d
+last_change = 2023-12-11T18:27:38.675164Z
