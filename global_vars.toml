@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x5048]
-last_change = 2023-12-11T18:27:36.370364Z
-addr = 0x5048
-name = "cv_"
+[0x50c8]
+last_change = 2023-12-11T18:27:36.384683Z
+addr = 0x50c8
+name = "exit"
 size = 0x1
