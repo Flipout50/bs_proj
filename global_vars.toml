@@ -10,14 +10,14 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
+[0x3722]
+last_change = 2023-12-11T18:27:36.173227Z
+addr = 0x3722
+name = "__PRETTY_FUNCTION__.5658"
+size = 0x1
+
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
-size = 0x1
-
-[0x5000]
-last_change = 2023-12-11T18:27:36.158222Z
-addr = 0x5000
-name = "data_start"
 size = 0x1
