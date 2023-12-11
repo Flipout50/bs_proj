@@ -1,3 +1,9 @@
+[0x3b0]
+last_change = 2023-12-11T18:27:37.130757Z
+addr = 0x3b0
+name = "elf_gnu_hash_indexes"
+size = 0x8
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -14,10 +20,4 @@ size = 0x1f
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
-size = 0x1
-
-[0x4d68]
-last_change = 2023-12-11T18:27:37.116406Z
-addr = 0x4d68
-name = "__do_global_dtors_aux_fini_array_entry"
 size = 0x1
