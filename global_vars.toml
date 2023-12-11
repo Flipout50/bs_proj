@@ -15,9 +15,3 @@ last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
-
-[0x50e0]
-last_change = 2023-12-11T18:27:38.051251Z
-addr = 0x50e0
-name = "_ITM_deregisterTMCloneTable"
-size = 0x1
