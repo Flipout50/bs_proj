@@ -4,6 +4,12 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
+[0x1130]
+last_change = 2023-12-11T18:40:41.656814Z
+addr = 0x1130
+name = ".__stack_chk_fail"
+size = 0x1
+
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
@@ -26,10 +32,4 @@ size = 0x1
 last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
 name = "__errno_location"
-size = 0x1
-
-[0x5070]
-last_change = 2023-12-11T18:40:41.639963Z
-addr = 0x5070
-name = "__libc_start_main"
 size = 0x1
