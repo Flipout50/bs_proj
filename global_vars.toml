@@ -4,17 +4,17 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1220]
-last_change = 2023-12-11T18:27:37.342658Z
-addr = 0x1220
-name = "register_tm_clones"
-size = 0x1
-
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
+
+[0x3443]
+last_change = 2023-12-11T18:27:37.356656Z
+addr = 0x3443
+name = "file"
+size = 0x6
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
