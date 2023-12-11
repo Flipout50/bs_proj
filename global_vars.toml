@@ -22,8 +22,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4fb8]
-last_change = 2023-12-11T18:40:38.514022Z
-addr = 0x4fb8
-name = "open_ptr"
-size = 0x8
+[0x5078]
+last_change = 2023-12-11T18:40:38.531071Z
+addr = 0x5078
+name = "setvbuf"
+size = 0x1
