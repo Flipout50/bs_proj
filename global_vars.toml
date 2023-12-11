@@ -4,6 +4,12 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
+[0x11f0]
+last_change = 2023-12-11T18:40:38.704552Z
+addr = 0x11f0
+name = "deregister_tm_clones"
+size = 0x1
+
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
@@ -20,10 +26,4 @@ size = 0x53
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
-size = 0x1
-
-[0x5080]
-last_change = 2023-12-11T18:40:38.687823Z
-addr = 0x5080
-name = "open"
 size = 0x1
