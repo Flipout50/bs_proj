@@ -22,10 +22,10 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4f90]
-last_change = 2023-12-11T18:40:42.231406Z
-addr = 0x4f90
-name = "__stack_chk_fail_ptr"
+[0x4f80]
+last_change = 2023-12-11T18:40:42.248924Z
+addr = 0x4f80
+name = "__errno_location_ptr"
 size = 0x8
 
 [0x5040]
