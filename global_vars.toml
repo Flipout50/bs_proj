@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x50b0]
-last_change = 2023-12-11T18:27:35.985607Z
-addr = 0x50b0
-name = "setvbuf"
-size = 0x1
+[0x4f68]
+last_change = 2023-12-11T18:27:36.001689Z
+addr = 0x4f68
+name = ""
+size = 0x8
