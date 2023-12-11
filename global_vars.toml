@@ -1,8 +1,8 @@
-[0x5d4]
-last_change = 2023-12-11T18:27:37.756813Z
-addr = 0x5d4
-name = "aStackChkFail"
-size = 0x11
+[0x364]
+last_change = 2023-12-11T18:27:37.773018Z
+addr = 0x364
+name = "aGnu_0"
+size = 0x4
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
