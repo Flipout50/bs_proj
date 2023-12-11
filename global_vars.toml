@@ -1,3 +1,9 @@
+[0x5ed]
+last_change = 2023-12-11T18:27:37.624326Z
+addr = 0x5ed
+name = "aStdin"
+size = 0x6
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -9,12 +15,6 @@ last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
-
-[0x3128]
-last_change = 2023-12-11T18:27:37.610340Z
-addr = 0x3128
-name = "aBeforeWeDoAnyt"
-size = 0x47
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
