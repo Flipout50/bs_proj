@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1130]
-last_change = 2023-12-11T18:27:37.026265Z
-addr = 0x1130
-name = ".__stack_chk_fail"
+[0x1140]
+last_change = 2023-12-11T18:27:37.041954Z
+addr = 0x1140
+name = ".printf"
 size = 0x1
 
 [0x2548]
