@@ -10,6 +10,12 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
+[0x32a8]
+last_change = 2023-12-11T18:27:38.810055Z
+addr = 0x32a8
+name = "aAboveItInTheSt"
+size = 0x4a
+
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
