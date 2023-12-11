@@ -1,8 +1,8 @@
-[0x5c0]
-last_change = 2023-12-11T18:27:36.668882Z
-addr = 0x5c0
-name = "aIsoc99Scanf"
-size = 0xf
+[0x5cf]
+last_change = 2023-12-11T18:27:36.683055Z
+addr = 0x5cf
+name = "aPuts"
+size = 0x5
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
