@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x222d
 size = 0x470
-last_change = 2023-12-11T18:27:38.794917Z
+last_change = 2023-12-11T18:30:06.023376Z
 
 [stack_vars.-0x170]
 last_change = 2023-12-11T18:27:38.794917Z
@@ -9,4 +9,12 @@ offset = -368
 name = "v10"
 type = "size_t"
 size = 0x8
+addr = 0x222d
+
+[stack_vars.-0x158]
+last_change = 2023-12-11T18:30:06.023376Z
+offset = -344
+name = "flag_buffer"
+type = "char[328]"
+size = 0x148
 addr = 0x222d
