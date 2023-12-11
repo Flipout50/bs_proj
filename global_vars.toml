@@ -4,6 +4,12 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
+[0x1190]
+last_change = 2023-12-11T18:40:41.689331Z
+addr = 0x1190
+name = ".__isoc99_scanf"
+size = 0x1
+
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
@@ -20,12 +26,6 @@ size = 0x53
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
-size = 0x1
-
-[0x4f60]
-last_change = 2023-12-11T18:40:41.672803Z
-addr = 0x4f60
-name = "_GLOBAL_OFFSET_TABLE_"
 size = 0x1
 
 [0x5040]
