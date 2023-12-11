@@ -1,3 +1,9 @@
+[0x820]
+last_change = 2023-12-11T18:27:38.660206Z
+addr = 0x820
+comment = "R_X86_64_JUMP_SLOT putchar\n"
+decompiled = false
+
 [0x11b8]
 last_change = 2023-12-10T06:55:32.834339Z
 addr = 0x11b8
@@ -46,9 +52,3 @@ addr = 0x139c
 func_addr = 0x130b
 comment = "null a bunch of bytes\n"
 decompiled = true
-
-[0x4d60]
-last_change = 2023-12-11T18:27:38.645532Z
-addr = 0x4d60
-comment = "Alternative name is '__init_array_start'\n"
-decompiled = false
