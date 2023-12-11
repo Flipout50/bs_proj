@@ -1,8 +1,8 @@
-[0x698]
-last_change = 2023-12-11T18:40:42.266507Z
-addr = 0x698
-name = "aGmonStart"
-size = 0xf
+[0x5f3]
+last_change = 2023-12-11T18:40:42.284614Z
+addr = 0x5f3
+name = "aAssertFail"
+size = 0xe
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
