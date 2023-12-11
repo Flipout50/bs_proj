@@ -22,8 +22,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4f88]
-last_change = 2023-12-11T18:40:38.586636Z
-addr = 0x4f88
-name = "puts_ptr"
-size = 0x8
+[0x5000]
+last_change = 2023-12-11T18:40:38.603442Z
+addr = 0x5000
+name = "data_start"
+size = 0x1
