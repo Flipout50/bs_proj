@@ -10,11 +10,11 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
-[0x30f0]
-last_change = 2023-12-11T18:27:38.237749Z
-addr = 0x30f0
-name = "aTheChallengeFu"
-size = 0x31
+[0x3069]
+last_change = 2023-12-11T18:27:38.255568Z
+addr = 0x3069
+name = "aDataBytes"
+size = 0xd
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
