@@ -1,14 +1,14 @@
+[0x3ac]
+last_change = 2023-12-11T18:40:39.118548Z
+addr = 0x3ac
+name = "elf_gnu_hash_shift"
+size = 0x4
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x12a0]
-last_change = 2023-12-11T18:40:39.101162Z
-addr = 0x12a0
-name = "frame_dummy"
-size = 0x1
 
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
