@@ -4,17 +4,17 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x11b0]
-last_change = 2023-12-11T18:40:38.875517Z
-addr = 0x11b0
-name = ".strerror"
-size = 0x1
-
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
+
+[0x2560]
+last_change = 2023-12-11T18:40:38.891833Z
+addr = 0x2560
+name = "__libc_csu_fini"
+size = 0x1
 
 [0x3008]
 last_change = 2023-12-11T18:27:38.840572Z
