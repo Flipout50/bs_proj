@@ -1,8 +1,8 @@
-[0x3b8]
-last_change = 2023-12-11T18:27:37.947673Z
-addr = 0x3b8
-name = "elf_gnu_hash_bucket"
-size = 0x1
+[0x3ac]
+last_change = 2023-12-11T18:27:37.962707Z
+addr = 0x3ac
+name = "elf_gnu_hash_shift"
+size = 0x4
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
