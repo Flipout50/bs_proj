@@ -10,11 +10,11 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
-[0x357c]
-last_change = 2023-12-11T18:27:37.482298Z
-addr = 0x357c
-name = "aYouSentDBytes"
-size = 0x14
+[0x38f4]
+last_change = 2023-12-11T18:27:37.496352Z
+addr = 0x38f4
+name = "__FRAME_END__"
+size = 0x1
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
