@@ -1,14 +1,14 @@
-[0x619]
-last_change = 2023-12-11T18:40:38.039074Z
-addr = 0x619
-name = "aRead"
-size = 0x5
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
+
+[0x23d4]
+last_change = 2023-12-11T18:40:38.056717Z
+addr = 0x23d4
+name = "main"
+size = 0x1
 
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
