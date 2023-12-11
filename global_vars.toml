@@ -1,8 +1,8 @@
-[0x318]
-last_change = 2023-12-11T18:40:38.320915Z
-addr = 0x318
-name = "aLib64LdLinuxX8"
-size = 0x1c
+[0x62a]
+last_change = 2023-12-11T18:40:38.338848Z
+addr = 0x62a
+name = "aCxaFinalize"
+size = 0xf
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
