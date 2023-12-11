@@ -1,3 +1,9 @@
+[0x388]
+last_change = 2023-12-11T18:27:38.318398Z
+addr = 0x388
+name = "aGnu_1"
+size = 0x4
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -15,9 +21,3 @@ last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
-
-[0x4f80]
-last_change = 2023-12-11T18:27:38.303162Z
-addr = 0x4f80
-name = "__errno_location_ptr"
-size = 0x8
