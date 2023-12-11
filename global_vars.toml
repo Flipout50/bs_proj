@@ -1,9 +1,3 @@
-[0x670]
-last_change = 2023-12-11T18:27:36.216104Z
-addr = 0x670
-name = "aGlibc225"
-size = 0xc
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -20,4 +14,10 @@ size = 0x1f
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
+size = 0x1
+
+[0x50b8]
+last_change = 2023-12-11T18:27:36.230421Z
+addr = 0x50b8
+name = "open"
 size = 0x1
