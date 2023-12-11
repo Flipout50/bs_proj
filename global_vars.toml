@@ -1,3 +1,9 @@
+[0x666]
+last_change = 2023-12-11T18:27:36.201646Z
+addr = 0x666
+name = "aGlibc24"
+size = 0xa
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -9,12 +15,6 @@ last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
-
-[0x3558]
-last_change = 2023-12-11T18:27:36.187558Z
-addr = 0x3558
-name = "aErrorFailedToR"
-size = 0x24
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
