@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4fe0]
-last_change = 2023-12-11T18:27:36.596593Z
-addr = 0x4fe0
-name = "__libc_start_main_ptr"
+[0x4fd8]
+last_change = 2023-12-11T18:27:36.610852Z
+addr = 0x4fd8
+name = "_ITM_deregisterTMCloneTable_ptr"
 size = 0x8
