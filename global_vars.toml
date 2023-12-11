@@ -1,7 +1,7 @@
-[0x3ac]
-last_change = 2023-12-11T18:27:37.962707Z
-addr = 0x3ac
-name = "elf_gnu_hash_shift"
+[0x3a4]
+last_change = 2023-12-11T18:27:37.977612Z
+addr = 0x3a4
+name = "elf_gnu_hash_symbias"
 size = 0x4
 
 [0x6b4]
