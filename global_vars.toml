@@ -22,8 +22,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x5050]
-last_change = 2023-12-11T18:40:38.925159Z
-addr = 0x5050
-name = "__stack_chk_fail"
+[0x5068]
+last_change = 2023-12-11T18:40:38.942047Z
+addr = 0x5068
+name = "read"
 size = 0x1
