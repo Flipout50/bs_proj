@@ -10,10 +10,10 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
-[0x31b8]
-last_change = 2023-12-11T18:27:37.596481Z
-addr = 0x31b8
-name = "aThisMeansThatW"
+[0x3128]
+last_change = 2023-12-11T18:27:37.610340Z
+addr = 0x3128
+name = "aBeforeWeDoAnyt"
 size = 0x47
 
 [0x4148]
