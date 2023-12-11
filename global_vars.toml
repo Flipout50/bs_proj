@@ -16,14 +16,14 @@ addr = 0x3008
 name = "s"
 size = 0x53
 
-[0x30a0]
-last_change = 2023-12-11T18:40:38.075740Z
-addr = 0x30a0
-name = "aWelcomeToS"
-size = 0x14
-
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
+
+[0x4fd0]
+last_change = 2023-12-11T18:40:38.094283Z
+addr = 0x4fd0
+name = "strerror_ptr"
+size = 0x8
