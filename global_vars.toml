@@ -15,9 +15,3 @@ last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
-
-[0x4fb0]
-last_change = 2023-12-11T18:27:38.735228Z
-addr = 0x4fb0
-name = "setvbuf_ptr"
-size = 0x8
