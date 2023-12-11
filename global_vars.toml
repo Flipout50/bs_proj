@@ -1,3 +1,9 @@
+[0x5d4]
+last_change = 2023-12-11T18:27:37.756813Z
+addr = 0x5d4
+name = "aStackChkFail"
+size = 0x11
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -15,9 +21,3 @@ last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
-
-[0x4f78]
-last_change = 2023-12-11T18:27:37.741768Z
-addr = 0x4f78
-name = "putchar_ptr"
-size = 0x8
