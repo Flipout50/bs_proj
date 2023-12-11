@@ -1,3 +1,9 @@
+[0x318]
+last_change = 2023-12-11T18:40:38.320915Z
+addr = 0x318
+name = "aLib64LdLinuxX8"
+size = 0x1c
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -20,10 +26,4 @@ size = 0x53
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
-size = 0x1
-
-[0x5010]
-last_change = 2023-12-11T18:40:38.303226Z
-addr = 0x5010
-name = "stdout@@GLIBC_2.2.5"
 size = 0x1
