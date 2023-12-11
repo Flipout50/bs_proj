@@ -46,9 +46,3 @@ addr = 0x139c
 func_addr = 0x130b
 comment = "null a bunch of bytes\n"
 decompiled = true
-
-[0x4d68]
-last_change = 2023-12-11T18:40:42.475739Z
-addr = 0x4d68
-comment = "Alternative name is '__init_array_end'\n"
-decompiled = false
