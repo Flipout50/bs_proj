@@ -4,12 +4,6 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x223d]
-last_change = 2023-12-11T18:40:41.975246Z
-addr = 0x223d
-name = "challenge"
-size = 0x1
-
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
@@ -21,6 +15,12 @@ last_change = 2023-12-11T18:27:38.840572Z
 addr = 0x3008
 name = "s"
 size = 0x53
+
+[0x30b4]
+last_change = 2023-12-11T18:40:41.991634Z
+addr = 0x30b4
+name = "__PRETTY_FUNCTION__.5641"
+size = 0x1
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
