@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x5070]
-last_change = 2023-12-11T18:27:37.257384Z
-addr = 0x5070
-name = "putchar"
+[0x5010]
+last_change = 2023-12-11T18:27:37.272218Z
+addr = 0x5010
+name = "__bss_start"
 size = 0x1
