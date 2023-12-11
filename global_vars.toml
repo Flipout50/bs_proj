@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x11a0]
-last_change = 2023-12-11T18:40:38.859166Z
-addr = 0x11a0
-name = ".exit"
+[0x11b0]
+last_change = 2023-12-11T18:40:38.875517Z
+addr = 0x11b0
+name = ".strerror"
 size = 0x1
 
 [0x2548]
