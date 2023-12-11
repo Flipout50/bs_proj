@@ -1,9 +1,3 @@
-[0x5cf]
-last_change = 2023-12-11T18:40:38.751178Z
-addr = 0x5cf
-name = "aPuts"
-size = 0x5
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -26,4 +20,10 @@ size = 0x53
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
+size = 0x1
+
+[0x5058]
+last_change = 2023-12-11T18:40:38.766456Z
+addr = 0x5058
+name = "printf"
 size = 0x1
