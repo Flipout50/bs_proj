@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x5088]
-last_change = 2023-12-11T18:27:38.271776Z
-addr = 0x5088
-name = "__stack_chk_fail"
-size = 0x1
+[0x4fa0]
+last_change = 2023-12-11T18:27:38.288150Z
+addr = 0x4fa0
+name = "__assert_fail_ptr"
+size = 0x8
