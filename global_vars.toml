@@ -16,17 +16,17 @@ addr = 0x3008
 name = "s"
 size = 0x53
 
-[0x3093]
-last_change = 2023-12-11T18:40:42.161406Z
-addr = 0x3093
-name = "aArgc0"
-size = 0x9
-
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
+
+[0x4fa8]
+last_change = 2023-12-11T18:40:42.179987Z
+addr = 0x4fa8
+name = "read_ptr"
+size = 0x8
 
 [0x5040]
 last_change = 2023-12-11T18:40:39.055412Z
