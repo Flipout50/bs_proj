@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4fc8]
-last_change = 2023-12-11T18:27:35.716228Z
-addr = 0x4fc8
-name = "exit_ptr"
+[0x4fc0]
+last_change = 2023-12-11T18:27:35.734341Z
+addr = 0x4fc0
+name = "__isoc99_scanf_ptr"
 size = 0x8
