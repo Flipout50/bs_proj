@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x222d
 size = 0x470
-last_change = 2023-12-11T18:27:38.066011Z
+last_change = 2023-12-11T18:27:38.083661Z
+
+[stack_vars.-0x160]
+last_change = 2023-12-11T18:27:38.083661Z
+offset = -352
+name = "v12"
+type = "void *"
+size = 0x8
+addr = 0x222d
