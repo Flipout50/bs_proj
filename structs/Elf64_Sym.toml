@@ -1,7 +1,7 @@
 [metadata]
 name = "Elf64_Sym"
 size = 0x8
-last_change = 2023-12-11T18:27:35.955945Z
+last_change = 2023-12-11T18:27:35.970347Z
 
 [members.0x0]
 name = "st_name"
@@ -18,5 +18,11 @@ size = 0x1
 [members.0x5]
 name = "st_other"
 offset = 0x5
-type = ""
+type = "unsigned char"
 size = 0x1
+
+[members.0x6]
+name = "st_shndx"
+offset = 0x6
+type = ""
+size = 0x2
