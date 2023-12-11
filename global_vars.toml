@@ -4,17 +4,17 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1140]
-last_change = 2023-12-11T18:27:37.041954Z
-addr = 0x1140
-name = ".printf"
-size = 0x1
-
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
+
+[0x27b0]
+last_change = 2023-12-11T18:27:37.058317Z
+addr = 0x27b0
+name = "__libc_csu_init"
+size = 0x1
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
