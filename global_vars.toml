@@ -11,16 +11,22 @@ name = "aSZombienatorCr"
 size = 0x1f
 
 [0x3008]
-last_change = 2023-12-11T18:40:43.106760Z
+last_change = 2023-12-11T18:27:38.840572Z
 addr = 0x3008
-name = "aFlag"
-size = 0x6
+name = "s"
+size = 0x53
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
+
+[0x4fa0]
+last_change = 2023-12-11T18:40:43.123730Z
+addr = 0x4fa0
+name = "__assert_fail_ptr"
+size = 0x8
 
 [0x5040]
 last_change = 2023-12-11T18:40:39.055412Z
