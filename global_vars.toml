@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1110]
-last_change = 2023-12-11T18:40:41.958867Z
-addr = 0x1110
-name = ".__errno_location"
+[0x223d]
+last_change = 2023-12-11T18:40:41.975246Z
+addr = 0x223d
+name = "challenge"
 size = 0x1
 
 [0x2548]
