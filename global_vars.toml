@@ -10,17 +10,17 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
+[0x2568]
+last_change = 2023-12-11T18:40:43.281209Z
+addr = 0x2568
+name = ".term_proc"
+size = 0x1
+
 [0x3008]
 last_change = 2023-12-11T18:27:38.840572Z
 addr = 0x3008
 name = "s"
 size = 0x53
-
-[0x300e]
-last_change = 2023-12-11T18:40:43.263468Z
-addr = 0x300e
-name = "aPayloadSize"
-size = 0xf
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
