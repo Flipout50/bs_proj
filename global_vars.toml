@@ -1,9 +1,3 @@
-[0x65c]
-last_change = 2023-12-11T18:40:42.024633Z
-addr = 0x65c
-name = "aGlibc27"
-size = 0xa
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -32,4 +26,10 @@ size = 0x1
 last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
 name = "__errno_location"
+size = 0x1
+
+[0x5098]
+last_change = 2023-12-11T18:40:42.041607Z
+addr = 0x5098
+name = "strerror"
 size = 0x1
