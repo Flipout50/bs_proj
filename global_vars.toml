@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x5000]
-last_change = 2023-12-11T18:27:36.800924Z
-addr = 0x5000
-name = "__data_start"
+[0x4d70]
+last_change = 2023-12-11T18:27:36.814784Z
+addr = 0x4d70
+name = "_DYNAMIC"
 size = 0x1
