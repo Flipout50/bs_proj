@@ -4,6 +4,12 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
+[0x1170]
+last_change = 2023-12-11T18:27:36.904372Z
+addr = 0x1170
+name = ".setvbuf"
+size = 0x1
+
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
