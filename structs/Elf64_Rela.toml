@@ -1,16 +1,10 @@
 [metadata]
 name = "Elf64_Rela"
-size = 0x10
-last_change = 2023-12-11T18:27:37.242837Z
+size = 0x8
+last_change = 2023-12-10T08:13:30.958906Z
 
 [members.0x0]
 name = "r_offset"
 offset = 0x0
-type = "unsigned long"
-size = 0x8
-
-[members.0x8]
-name = "r_info"
-offset = 0x8
 type = ""
 size = 0x8
