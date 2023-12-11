@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x12a9]
-last_change = 2023-12-11T18:27:37.328362Z
-addr = 0x12a9
-name = "DUMP_STACK"
+[0x1220]
+last_change = 2023-12-11T18:27:37.342658Z
+addr = 0x1220
+name = "register_tm_clones"
 size = 0x1
 
 [0x2548]
