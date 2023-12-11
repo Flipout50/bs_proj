@@ -1,8 +1,8 @@
-[0x639]
-last_change = 2023-12-11T18:27:37.803422Z
-addr = 0x639
-name = "aSetvbuf"
-size = 0x8
+[0x5b1]
+last_change = 2023-12-11T18:27:37.819041Z
+addr = 0x5b1
+name = "aLibcSo6"
+size = 0xa
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
