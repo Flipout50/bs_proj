@@ -1,9 +1,3 @@
-[0x625]
-last_change = 2023-12-11T18:40:38.653516Z
-addr = 0x625
-name = "aOpen"
-size = 0x5
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -15,6 +9,12 @@ last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
+
+[0x2568]
+last_change = 2023-12-11T18:40:38.670326Z
+addr = 0x2568
+name = "_fini"
+size = 0x1
 
 [0x3008]
 last_change = 2023-12-11T18:27:38.840572Z
