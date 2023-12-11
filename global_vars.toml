@@ -1,8 +1,8 @@
-[0x3b0]
-last_change = 2023-12-11T18:40:42.510221Z
-addr = 0x3b0
-name = "elf_gnu_hash_indexes"
-size = 0x8
+[0x3a8]
+last_change = 2023-12-11T18:40:42.526671Z
+addr = 0x3a8
+name = "elf_gnu_hash_bitmask_nwords"
+size = 0x4
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
