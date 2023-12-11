@@ -28,8 +28,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x50b0]
-last_change = 2023-12-11T18:40:41.775859Z
-addr = 0x50b0
-name = "__gmon_start__"
+[0x50b8]
+last_change = 2023-12-11T18:40:41.792126Z
+addr = 0x50b8
+name = "_ITM_registerTMCloneTable"
 size = 0x1
