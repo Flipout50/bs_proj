@@ -1,4 +1,12 @@
 [metadata]
 addr = 0x222d
 size = 0x470
-last_change = 2023-12-11T18:27:35.891722Z
+last_change = 2023-12-11T18:27:35.909091Z
+
+[stack_vars.-0x170]
+last_change = 2023-12-11T18:27:35.909091Z
+offset = -368
+name = "nbytes"
+type = "size_t"
+size = 0x8
+addr = 0x222d
