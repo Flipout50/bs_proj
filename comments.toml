@@ -46,9 +46,3 @@ addr = 0x139c
 func_addr = 0x130b
 comment = "null a bunch of bytes\n"
 decompiled = true
-
-[0x4d70]
-last_change = 2023-12-11T18:27:37.011035Z
-addr = 0x4d70
-comment = "DT_NEEDED libc.so.6\n"
-decompiled = false
