@@ -22,8 +22,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4fd0]
-last_change = 2023-12-11T18:40:38.094283Z
-addr = 0x4fd0
-name = "strerror_ptr"
+[0x4fc0]
+last_change = 2023-12-11T18:40:38.111994Z
+addr = 0x4fc0
+name = "__isoc99_scanf_ptr"
 size = 0x8
