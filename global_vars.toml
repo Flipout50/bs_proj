@@ -1,14 +1,14 @@
-[0x3a4]
-last_change = 2023-12-11T18:27:37.977612Z
-addr = 0x3a4
-name = "elf_gnu_hash_symbias"
-size = 0x4
-
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
+
+[0x1110]
+last_change = 2023-12-11T18:27:37.992658Z
+addr = 0x1110
+name = ".__errno_location"
+size = 0x1
 
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
