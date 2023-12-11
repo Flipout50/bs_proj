@@ -11,9 +11,9 @@ name = "aSZombienatorCr"
 size = 0x1f
 
 [0x3008]
-last_change = 2023-12-11T18:40:43.089226Z
+last_change = 2023-12-11T18:40:43.106760Z
 addr = 0x3008
-name = "file"
+name = "aFlag"
 size = 0x6
 
 [0x4148]
