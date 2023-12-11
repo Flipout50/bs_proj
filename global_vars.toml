@@ -1,3 +1,9 @@
+[0x64a]
+last_change = 2023-12-11T18:27:37.581426Z
+addr = 0x64a
+name = "aLibcStartMain"
+size = 0x12
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
