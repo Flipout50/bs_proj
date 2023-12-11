@@ -22,10 +22,10 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4fb0]
-last_change = 2023-12-11T18:40:42.804559Z
-addr = 0x4fb0
-name = "setvbuf_ptr"
+[0x4ff0]
+last_change = 2023-12-11T18:40:42.820368Z
+addr = 0x4ff0
+name = "_ITM_registerTMCloneTable_ptr"
 size = 0x8
 
 [0x5040]
