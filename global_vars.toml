@@ -22,6 +22,12 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
+[0x5010]
+last_change = 2023-12-11T18:40:41.908478Z
+addr = 0x5010
+name = "_edata"
+size = 0x1
+
 [0x5040]
 last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
