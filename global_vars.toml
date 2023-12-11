@@ -1,8 +1,8 @@
-[0x3a8]
-last_change = 2023-12-11T18:40:42.526671Z
-addr = 0x3a8
-name = "elf_gnu_hash_bitmask_nwords"
-size = 0x4
+[0x5ed]
+last_change = 2023-12-11T18:40:42.544621Z
+addr = 0x5ed
+name = "aStdin"
+size = 0x6
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
