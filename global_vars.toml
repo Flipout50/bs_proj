@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x5010]
-last_change = 2023-12-11T18:27:37.272218Z
-addr = 0x5010
-name = "__bss_start"
+[0x4f60]
+last_change = 2023-12-11T18:27:37.286282Z
+addr = 0x4f60
+name = "_GLOBAL_OFFSET_TABLE_"
 size = 0x1
