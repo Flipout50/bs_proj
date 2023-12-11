@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4f88]
-last_change = 2023-12-11T18:27:37.727521Z
-addr = 0x4f88
-name = "puts_ptr"
+[0x4f78]
+last_change = 2023-12-11T18:27:37.741768Z
+addr = 0x4f78
+name = "putchar_ptr"
 size = 0x8
