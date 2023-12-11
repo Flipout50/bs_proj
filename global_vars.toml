@@ -16,14 +16,14 @@ addr = 0x3008
 name = "s"
 size = 0x53
 
-[0x3028]
-last_change = 2023-12-11T18:40:38.387376Z
-addr = 0x3028
-name = "aSendYourPayloa"
-size = 0x26
-
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
+size = 0x1
+
+[0x5090]
+last_change = 2023-12-11T18:40:38.403784Z
+addr = 0x5090
+name = "exit"
 size = 0x1
