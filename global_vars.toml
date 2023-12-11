@@ -10,11 +10,11 @@ addr = 0x2548
 name = "aSZombienatorCr"
 size = 0x1f
 
-[0x3722]
-last_change = 2023-12-11T18:27:36.173227Z
-addr = 0x3722
-name = "__PRETTY_FUNCTION__.5658"
-size = 0x1
+[0x3558]
+last_change = 2023-12-11T18:27:36.187558Z
+addr = 0x3558
+name = "aErrorFailedToR"
+size = 0x24
 
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
