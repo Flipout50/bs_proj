@@ -16,8 +16,8 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4fe8]
-last_change = 2023-12-11T18:27:36.565018Z
-addr = 0x4fe8
-name = "__gmon_start___ptr"
+[0x4fd0]
+last_change = 2023-12-11T18:27:36.580997Z
+addr = 0x4fd0
+name = "strerror_ptr"
 size = 0x8
