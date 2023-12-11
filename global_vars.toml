@@ -4,10 +4,10 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x14ac]
-last_change = 2023-12-11T18:27:37.314199Z
-addr = 0x14ac
-name = "bin_padding"
+[0x12a9]
+last_change = 2023-12-11T18:27:37.328362Z
+addr = 0x12a9
+name = "DUMP_STACK"
 size = 0x1
 
 [0x2548]
