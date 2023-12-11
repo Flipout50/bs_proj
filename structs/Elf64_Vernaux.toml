@@ -1,28 +1,6 @@
 [metadata]
 name = "Elf64_Vernaux"
-size = 0xc
-last_change = 2023-12-10T08:13:30.671399Z
+size = 0x0
+last_change = 2023-12-11T18:40:42.371272Z
 
-[members.0x0]
-name = "vna_hash"
-offset = 0x0
-type = "unsigned int"
-size = 0x4
-
-[members.0x4]
-name = "vna_flags"
-offset = 0x4
-type = "unsigned short"
-size = 0x2
-
-[members.0x6]
-name = "vna_other"
-offset = 0x6
-type = "unsigned short"
-size = 0x2
-
-[members.0x8]
-name = "vna_name"
-offset = 0x8
-type = ""
-size = 0x4
+[members]
