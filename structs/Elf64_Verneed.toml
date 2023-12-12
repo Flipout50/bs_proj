@@ -1,22 +1,10 @@
 [metadata]
 name = "Elf64_Verneed"
-size = 0x8
-last_change = 2023-12-10T08:13:30.753037Z
+size = 0x4
+last_change = 2023-12-12T19:30:07.074817Z
 
 [members.0x0]
 name = "vn_version"
 offset = 0x0
-type = "unsigned short"
-size = 0x2
-
-[members.0x2]
-name = "vn_cnt"
-offset = 0x2
-type = "unsigned short"
-size = 0x2
-
-[members.0x4]
-name = "vn_file"
-offset = 0x4
 type = ""
-size = 0x4
+size = 0x2
