@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x401190]
-last_change = 2023-12-12T19:59:22.032948Z
-addr = 0x401190
-name = ".setvbuf"
+[0x4011c0]
+last_change = 2023-12-12T19:59:22.052498Z
+addr = 0x4011c0
+name = ".strerror"
 size = 0x1
