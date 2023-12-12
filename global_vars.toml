@@ -22,12 +22,6 @@ addr = 0x3082
 name = "s"
 size = 0x9
 
-[0x311a]
-last_change = 2023-12-12T19:30:05.099432Z
-addr = 0x311a
-name = "aWelcomeToS"
-size = 0x14
-
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
