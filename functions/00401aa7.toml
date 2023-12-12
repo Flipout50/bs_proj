@@ -1,12 +1,4 @@
 [metadata]
 addr = 0x401aa7
 size = 0x16b
-last_change = 2023-12-12T19:59:24.104857Z
-
-[stack_vars.-0x10]
-last_change = 2023-12-12T19:59:24.104857Z
-offset = -16
-name = "v8"
-type = "void *"
-size = 0x8
-addr = 0x401aa7
+last_change = 2023-12-12T19:59:24.296284Z
