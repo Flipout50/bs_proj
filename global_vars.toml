@@ -1,8 +1,8 @@
-[0x5b7]
-last_change = 2023-12-12T19:30:04.812569Z
-addr = 0x5b7
-name = "aPuts"
-size = 0x5
+[0x3a0]
+last_change = 2023-12-12T19:30:04.828922Z
+addr = 0x3a0
+name = "elf_gnu_hash_nbuckets"
+size = 0x4
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
