@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x400618]
-last_change = 2023-12-12T19:59:22.298341Z
-addr = 0x400618
-name = "aGlibc27"
-size = 0xa
+[0x404108]
+last_change = 2023-12-12T19:59:22.318327Z
+addr = 0x404108
+name = "__isoc99_scanf"
+size = 0x1
