@@ -33,9 +33,3 @@ last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
 name = "__errno_location"
 size = 0x1
-
-[0x4040f0]
-last_change = 2023-12-12T19:59:22.558883Z
-addr = 0x4040f0
-name = "execve"
-size = 0x1
