@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x401d88]
-last_change = 2023-12-12T19:59:23.770359Z
-addr = 0x401d88
-name = ".term_proc"
-size = 0x1
+[0x404058]
+last_change = 2023-12-12T19:59:23.790719Z
+addr = 0x404058
+name = ""
+size = 0x8
