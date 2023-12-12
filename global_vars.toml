@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x4003b8]
-last_change = 2023-12-12T19:59:21.303564Z
-addr = 0x4003b8
-name = "elf_gnu_hash_bucket"
+[0x404120]
+last_change = 2023-12-12T19:59:21.323445Z
+addr = 0x404120
+name = "__gmon_start__"
 size = 0x1
