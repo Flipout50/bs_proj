@@ -1,5 +1,5 @@
 user = "flipout"
 version = 0x0
-last_push_time = 2023-12-12T19:30:05.133671Z
-last_push_artifact = 0x30e0
-last_push_artifact_type = "global variable"
+last_push_time = 2023-12-12T19:30:05.151949Z
+last_push_artifact = "Elf64_Sym"
+last_push_artifact_type = "struct"
