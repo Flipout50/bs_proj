@@ -46,9 +46,3 @@ addr = 0x139c
 func_addr = 0x130b
 comment = "null a bunch of bytes\n"
 decompiled = true
-
-[0x400698]
-last_change = 2023-12-12T19:59:23.102531Z
-addr = 0x400698
-comment = "R_X86_64_GLOB_DAT __libc_start_main\n"
-decompiled = false
