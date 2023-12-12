@@ -1,3 +1,9 @@
+[0x3ac]
+last_change = 2023-12-12T19:30:06.003320Z
+addr = 0x3ac
+name = "elf_gnu_hash_shift"
+size = 0x4
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -11,10 +17,10 @@ name = "aSZombienatorCr"
 size = 0x1f
 
 [0x3008]
-last_change = 2023-12-12T19:30:05.986057Z
+last_change = 2023-12-11T18:27:38.840572Z
 addr = 0x3008
-name = "file"
-size = 0x8
+name = "s"
+size = 0x53
 
 [0x3082]
 last_change = 2023-12-11T18:40:43.369511Z
