@@ -22,16 +22,16 @@ addr = 0x3082
 name = "s"
 size = 0x9
 
+[0x3130]
+last_change = 2023-12-12T19:30:05.270860Z
+addr = 0x3130
+name = "aChallenge"
+size = 0xa
+
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
-size = 0x1
-
-[0x5010]
-last_change = 2023-12-12T19:30:05.255024Z
-addr = 0x5010
-name = "stdout"
 size = 0x1
 
 [0x5040]
