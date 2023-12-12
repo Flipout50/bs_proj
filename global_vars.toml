@@ -33,3 +33,9 @@ last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
 name = "__errno_location"
 size = 0x1
+
+[0x404010]
+last_change = 2023-12-12T19:59:23.200742Z
+addr = 0x404010
+name = ""
+size = 0x8
