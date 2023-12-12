@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x402008]
-last_change = 2023-12-12T19:59:23.911187Z
-addr = 0x402008
-name = "aStdin_0"
+[0x403ff0]
+last_change = 2023-12-12T19:59:23.933206Z
+addr = 0x403ff0
+name = "__libc_start_main_ptr"
 size = 0x8
