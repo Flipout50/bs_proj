@@ -1,3 +1,9 @@
+[0x5c4]
+last_change = 2023-12-12T19:30:05.918451Z
+addr = 0x5c4
+name = "aStdin"
+size = 0x6
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -32,10 +38,4 @@ size = 0x1
 last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
 name = "__errno_location"
-size = 0x1
-
-[0x50b8]
-last_change = 2023-12-12T19:30:05.900608Z
-addr = 0x50b8
-name = "_ITM_registerTMCloneTable"
 size = 0x1
