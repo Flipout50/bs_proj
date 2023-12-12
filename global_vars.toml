@@ -4,12 +4,6 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1170]
-last_change = 2023-12-12T19:30:05.504378Z
-addr = 0x1170
-name = ".__isoc99_scanf"
-size = 0x1
-
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
@@ -38,4 +32,10 @@ size = 0x1
 last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
 name = "__errno_location"
+size = 0x1
+
+[0x5050]
+last_change = 2023-12-12T19:30:05.521272Z
+addr = 0x5050
+name = "puts"
 size = 0x1
