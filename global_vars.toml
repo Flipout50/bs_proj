@@ -1,8 +1,8 @@
-[0x618]
-last_change = 2023-12-12T19:30:05.554285Z
-addr = 0x618
-name = "aStrerror"
-size = 0x9
+[0x621]
+last_change = 2023-12-12T19:30:05.570542Z
+addr = 0x621
+name = "aLibcStartMain"
+size = 0x12
 
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
