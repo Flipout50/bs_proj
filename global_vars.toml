@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x402145]
-last_change = 2023-12-12T19:59:24.378271Z
-addr = 0x402145
-name = "aMain"
-size = 0x5
+[0x401000]
+last_change = 2023-12-12T19:59:24.398681Z
+addr = 0x401000
+name = ".init_proc"
+size = 0x1
