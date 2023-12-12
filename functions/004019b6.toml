@@ -1,12 +1,4 @@
 [metadata]
 addr = 0x4019b6
 size = 0xf1
-last_change = 2023-12-12T19:59:21.262104Z
-
-[stack_vars.-0x30]
-last_change = 2023-12-12T19:59:21.262104Z
-offset = -48
-name = ""
-type = "long"
-size = 0x8
-addr = 0x4019b6
+last_change = 2023-12-12T19:59:22.819612Z
