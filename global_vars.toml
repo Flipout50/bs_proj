@@ -1,14 +1,14 @@
+[0x5a3]
+last_change = 2023-12-12T19:30:05.238743Z
+addr = 0x5a3
+name = "aExit"
+size = 0x5
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x1180]
-last_change = 2023-12-12T19:30:05.222382Z
-addr = 0x1180
-name = ".exit"
-size = 0x1
 
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
