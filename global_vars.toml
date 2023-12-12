@@ -22,6 +22,12 @@ addr = 0x3082
 name = "s"
 size = 0x9
 
+[0x310d]
+last_change = 2023-12-12T19:30:06.986948Z
+addr = 0x310d
+name = "aArgc0"
+size = 0x9
+
 [0x4148]
 last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
