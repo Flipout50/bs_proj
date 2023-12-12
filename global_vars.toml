@@ -28,10 +28,10 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4fa0]
-last_change = 2023-12-12T19:30:06.303653Z
-addr = 0x4fa0
-name = "printf_ptr"
+[0x4f90]
+last_change = 2023-12-12T19:30:06.319685Z
+addr = 0x4f90
+name = "puts_ptr"
 size = 0x8
 
 [0x5040]
