@@ -1,14 +1,14 @@
+[0x5bc]
+last_change = 2023-12-12T19:30:04.965923Z
+addr = 0x5bc
+name = "aPutchar"
+size = 0x8
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
 name = "aFclose"
 size = 0x7
-
-[0x10f0]
-last_change = 2023-12-12T19:30:04.950102Z
-addr = 0x10f0
-name = ".putchar"
-size = 0x1
 
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
