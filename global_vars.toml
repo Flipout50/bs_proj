@@ -4,12 +4,6 @@ addr = 0x6b4
 name = "aFclose"
 size = 0x7
 
-[0x1140]
-last_change = 2023-12-12T19:30:05.968727Z
-addr = 0x1140
-name = ".__assert_fail"
-size = 0x1
-
 [0x2548]
 last_change = 2023-12-10T08:13:37.912710Z
 addr = 0x2548
@@ -17,10 +11,10 @@ name = "aSZombienatorCr"
 size = 0x1f
 
 [0x3008]
-last_change = 2023-12-11T18:27:38.840572Z
+last_change = 2023-12-12T19:30:05.986057Z
 addr = 0x3008
-name = "s"
-size = 0x53
+name = "file"
+size = 0x8
 
 [0x3082]
 last_change = 2023-12-11T18:40:43.369511Z
