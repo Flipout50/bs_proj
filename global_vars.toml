@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x403e08]
-last_change = 2023-12-12T19:59:21.508880Z
-addr = 0x403e08
-name = "funcs_401D59"
-size = 0x10
+[0x400583]
+last_change = 2023-12-12T19:59:21.529006Z
+addr = 0x400583
+name = "aExit"
+size = 0x5
