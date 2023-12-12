@@ -16,12 +16,6 @@ addr = 0x3008
 name = "s"
 size = 0x53
 
-[0x3010]
-last_change = 2023-12-12T19:30:06.728200Z
-addr = 0x3010
-name = "aShellcodeVoid0"
-size = 0x20
-
 [0x3082]
 last_change = 2023-12-11T18:40:43.369511Z
 addr = 0x3082
@@ -33,6 +27,12 @@ last_change = 2023-12-10T08:13:31.095797Z
 addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
+
+[0x4ff8]
+last_change = 2023-12-12T19:30:06.745382Z
+addr = 0x4ff8
+name = "__cxa_finalize_ptr"
+size = 0x8
 
 [0x5040]
 last_change = 2023-12-11T18:40:39.055412Z
