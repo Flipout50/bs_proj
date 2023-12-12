@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x10e0
 size = 0xb
-last_change = 2023-12-12T19:30:06.087874Z
+last_change = 2023-12-12T19:30:06.104392Z
+
+[header]
+last_change = 2023-12-12T19:30:06.104392Z
+name = "__cxa_finalize"
+addr = 0x10e0
