@@ -29,7 +29,7 @@ name = "__cxa_finalize"
 size = 0x1
 
 [0x5040]
-last_change = 2023-12-11T18:40:39.055412Z
+last_change = 2023-12-12T19:30:04.539631Z
 addr = 0x5040
-name = "__errno_location"
+name = "putchar"
 size = 0x1
