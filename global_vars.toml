@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x4040d8]
-last_change = 2023-12-12T19:59:22.072936Z
-addr = 0x4040d8
-name = "__assert_fail"
-size = 0x1
+[0x4020bb]
+last_change = 2023-12-12T19:59:22.093410Z
+addr = 0x4020bb
+name = "aLu"
+size = 0x4
