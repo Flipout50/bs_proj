@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x4005ee]
-last_change = 2023-12-12T19:59:22.458308Z
-addr = 0x4005ee
-name = "aExecve"
-size = 0x7
+[0x401120]
+last_change = 2023-12-12T19:59:22.478394Z
+addr = 0x401120
+name = ".__errno_location"
+size = 0x1
