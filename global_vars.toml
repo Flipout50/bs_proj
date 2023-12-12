@@ -1,3 +1,9 @@
+[0x3b0]
+last_change = 2023-12-12T19:30:04.933674Z
+addr = 0x3b0
+name = "elf_gnu_hash_indexes"
+size = 0x8
+
 [0x6b4]
 last_change = 2023-12-10T08:12:32.615093Z
 addr = 0x6b4
@@ -32,10 +38,4 @@ size = 0x1
 last_change = 2023-12-11T18:40:39.055412Z
 addr = 0x5040
 name = "__errno_location"
-size = 0x1
-
-[0x5090]
-last_change = 2023-12-12T19:30:04.916739Z
-addr = 0x5090
-name = "exit"
 size = 0x1
