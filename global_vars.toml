@@ -28,10 +28,10 @@ addr = 0x4148
 name = "__cxa_finalize"
 size = 0x1
 
-[0x4ff0]
-last_change = 2023-12-12T19:30:06.271377Z
-addr = 0x4ff0
-name = "_ITM_registerTMCloneTable_ptr"
+[0x4fc8]
+last_change = 2023-12-12T19:30:06.287410Z
+addr = 0x4fc8
+name = "exit_ptr"
 size = 0x8
 
 [0x5040]
