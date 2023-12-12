@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x20b0
 size = 0x5
-last_change = 2023-12-12T19:30:07.232838Z
+last_change = 2023-12-12T19:30:07.250221Z
+
+[header]
+last_change = 2023-12-12T19:30:07.250221Z
+name = "fini"
+addr = 0x20b0
