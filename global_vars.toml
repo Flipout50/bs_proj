@@ -34,8 +34,8 @@ addr = 0x5040
 name = "__errno_location"
 size = 0x1
 
-[0x400588]
-last_change = 2023-12-12T19:59:21.715802Z
-addr = 0x400588
-name = "aIsoc99Scanf"
-size = 0xf
+[0x4040b8]
+last_change = 2023-12-12T19:59:21.736375Z
+addr = 0x4040b8
+name = "putchar"
+size = 0x1
